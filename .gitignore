@@ -1,0 +1,9 @@
+*~
+*.org
+*.pem
+*.pkl
+*.pyc
+.ipynb_checkpoints
+.DS_Store
+loc.py
+src/ec2
