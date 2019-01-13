@@ -5,9 +5,9 @@ Following is the mind map of the entire learning process.
 <br>
 
 >Machine Learning
->>Supervised Learning
->>Unsupervised Learning
->>Reinforcement Learning
+>>Supervised Learning<br>
+>>Unsupervised Learning<br>
+>>Reinforcement Learning<br>
 >>Cluster Analysis
 >>>K-Means
 >>>Amomaly Detection
