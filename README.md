@@ -7,8 +7,11 @@ Following is the mind map of the entire learning process.
 >[Machine Learning](Notebooks/Definitions.ipynb)
 
 >>[Supervised Learning<br>
->>Unsupervised Learning<br>
->>Reinforcement Learning](Notebooks/Different-Machine-Learning.ipynb)<br>
+>>Unsupervised Learning](Notebooks/Different-Machine-Learning.ipynb)<br>
+
+>>[Reinforcement Learning](Notebooks/Reinforcement-Learning.ipynb)<br>
+>>>[Bellman equation](Notebooks/Bellman-equation.ipynb)<br>
+>>>[Q-learning](Notebooks/Q-learning.ipynb)
 
 >>>Cluster Analysis
 >>>>K-Means<br>
@@ -21,7 +24,8 @@ Following is the mind map of the entire learning process.
 >>>Classification
 >>>>Neural Net
 >>>>>Deep Learning
->>>>>>DenseNet<br>
+>>>>>>[Perceptrons](Notebooks/Perceptrons.ipynb)<br>
+>>>>>>[MLP](Notebooks/MLP.ipynb)<br>
 >>>>>>CNN<br>
 >>>>>>RNN
 
