@@ -6,9 +6,9 @@ Following is the mind map of the entire learning process.
 
 >[Machine Learning](Notebooks/Definitions.ipynb)
 
->>Supervised Learning<br>
+>>[Supervised Learning<br>
 >>Unsupervised Learning<br>
->>Reinforcement Learning<br>
+>>Reinforcement Learning](Notebooks/Different-Machine-Learning.ipynb)<br>
 
 >>>Cluster Analysis
 >>>>K-Means<br>
