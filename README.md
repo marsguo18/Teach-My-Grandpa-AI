@@ -12,16 +12,17 @@ Following is the mind map of the entire learning process.
 >>>>K-Means<br>
 >>>>Amomaly Detection<br>
 
-
 >>>Regression
 >>>>Linear<br>
->>>>Logistic
+>>>>Logistic<br>
+
 >>>Classification
 >>>>Neural Net
 >>>>>Deep Learning
 >>>>>>DenseNet<br>
 >>>>>>CNN<br>
 >>>>>>RNN
+
 >>>>K-NN<br>
 >>>>Decision Tree<br>
 >>>>Random Forest<br>
