@@ -8,21 +8,21 @@ Following is the mind map of the entire learning process.
 >>Supervised Learning<br>
 >>Unsupervised Learning<br>
 >>Reinforcement Learning<br>
->>Cluster Analysis
->>>K-Means
->>>Amomaly Detection
->>Regression
->>>Linear
->>>Logistic
->>Classification
->>>Neural Net
->>>>Deep Learning
->>>>>DenseNet
->>>>>CNN
->>>>>RNN
->>>K-NN
->>>Decision Tree
->>>Random Forest
->>>SVM
->>>Naive Bayes
+>>>Cluster Analysis
+>>>>K-Means<br>
+>>>>Amomaly Detection
+>>>Regression
+>>>>Linear<br>
+>>>>Logistic
+>>>Classification
+>>>>Neural Net
+>>>>>Deep Learning
+>>>>>>DenseNet<br>
+>>>>>>CNN<br>
+>>>>>>RNN
+>>>>K-NN<br>
+>>>>Decision Tree<br>
+>>>>Random Forest<br>
+>>>>SVM<br>
+>>>>Naive Bayes
 
