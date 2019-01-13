@@ -11,6 +11,8 @@ Following is the mind map of the entire learning process.
 >>>Cluster Analysis
 >>>>K-Means<br>
 >>>>Amomaly Detection<br>
+
+
 >>>Regression
 >>>>Linear<br>
 >>>>Logistic
