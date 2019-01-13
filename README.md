@@ -4,7 +4,7 @@ Following is the mind map of the entire learning process.
 ![ml](Images/mind-map.png)
 <br>
 
->Machine Learning
+>[Machine Learning](Notebooks/Definitions.ipynb)
 
 >>Supervised Learning<br>
 >>Unsupervised Learning<br>
